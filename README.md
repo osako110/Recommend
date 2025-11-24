@@ -1,4 +1,4 @@
-# 📚 BibliophileAI: Next-Generation Social Book Recommendation Platform
+# 📚  Social Book Recommendation Platform
 
 <div align="center">
 
