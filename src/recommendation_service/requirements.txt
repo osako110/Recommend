@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+pyjwt
+httpx
+pinecone
+pandas
+numpy
+scikit-learn
+boto3 
+pyarrow     

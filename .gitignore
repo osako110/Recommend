@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+*.log
+
+# Node / React
+node_modules/
+npm-debug.log
+yarn-error.log
+*.tsbuildinfo
+frontend/build/
+frontend/.env
+frontend/.cache/
+
+# Docker / Kubernetes
+*.pid
+*.db
+*.sqlite
+docker-compose.override.yml
+kubernetes/.kube
+.kube/
+
+# Airflow
+infra/airflow/logs/
+infra/airflow/dags/*.pyc
+infra/airflow/config/airflow.cfg
+
+# Redis/Mongo/Postgres Data
+infra/redis/data/
+infra/mongodb/data/
+infra/postgres/data/
+
+# Datasets / Model Artifacts
+data/raw/
+data/processed/
+data/interim/
+data/external/
+models/
+*.h5
+*.pkl
+*.pt
+*.onnx
+
+# VSCode / IDE / Mac
+.vscode/
+.idea/
+.DS_Store
+
+# General
+*.swp
+*.bak
+*.tmp
+*.out
+
+
+# Ignore secrets files
+kubernetes/secrets.yaml
+frontend/bibliophile-ai-frontend/.env
