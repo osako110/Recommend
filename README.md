@@ -13,7 +13,7 @@
 
 **A production-grade recommendation system combining ensemble machine learning, graph neural networks, and real-time streaming infrastructure to deliver hyper-personalized book recommendations at scale.**
 
-[Features](#-key-features) • [Architecture](#️-system-architecture) • [ML Pipeline](#-recommendation-pipeline) • [Technology](#️-technology-stack) • [Contributing](#-contributing)
+[Features](#-key-features) • [Architecture](#️-system-architecture) • [ML Pipeline](#-recommendation-pipeline) • [Technology](#️-technology-stack) 
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Overview
 
-BibliophileAI is a sophisticated book recommendation platform that combines classical recommendation algorithms, deep learning, and graph-based social intelligence. Built on a modern microservices foundation with polyglot persistence, it processes millions of interactions in real-time while delivering sub-100ms recommendation latency.
+This is a sophisticated book recommendation platform that combines classical recommendation algorithms, deep learning, and graph-based social intelligence. Built on a modern microservices foundation with polyglot persistence, it processes millions of interactions in real-time while delivering sub-100ms recommendation latency.
 
 This project represents a production-grade implementation of hybrid recommendation systems, comparable to the recommendation engines powering Netflix, Spotify, and Amazon. It addresses fundamental challenges identified in recent recommendation systems research, including cold start problems, data sparsity, gray sheep users, scalability bottlenecks, and the exploration-exploitation trade-off.
 
